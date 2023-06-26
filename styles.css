@@ -1,0 +1,61 @@
+body {
+    font-family: "Inter", san-serif;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+.myrtle-green {
+    background-color: 3C787E;
+    color: white;
+}
+
+.chartreuse {
+    background-color: C7EF00;
+}
+
+.cocoa-brown {
+    background-color: D56F3E;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.inter {
+    font-family: "Inter", san-serif;
+}
+
+.bacasime-antique {
+    font-family: 'Bacasime Antique', serif;
+}
+
+.font-text-regular {
+    font-style: normal;
+}
+
+.font-text-bold {
+    font-weight: 1000;
+}
+
+.font-text-italic {
+    font-style: italic;
+}
